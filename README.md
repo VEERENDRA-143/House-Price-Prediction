@@ -2,7 +2,7 @@
 * This Analysis Gives the House price in the India
 # Technologies I used.
   1. Python.
-  2. Jupiter NootBook.
+  2. Jupyter NootBook.
 # Libraries I used.
  1. Pandas - Data Manupilation.
  2. Numpy - Array manupilation.
